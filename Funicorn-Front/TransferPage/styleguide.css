@@ -1,0 +1,23 @@
+:root {
+  --primary-2: rgba(147, 204, 216, 1);
+  --primary-1: rgba(95, 212, 149, 1);
+  --bg-color: rgba(26, 23, 189, 1);
+  --heading-font-family: "Itim", Helvetica;
+  --heading-font-weight: 400;
+  --heading-font-size: 40px;
+  --heading-letter-spacing: 0px;
+  --heading-line-height: normal;
+  --heading-font-style: normal;
+  --sub-heading-font-family: "Itim", Helvetica;
+  --sub-heading-font-weight: 400;
+  --sub-heading-font-size: 32px;
+  --sub-heading-letter-spacing: 0px;
+  --sub-heading-line-height: normal;
+  --sub-heading-font-style: normal;
+  --body-font-family: "Itim", Helvetica;
+  --body-font-weight: 400;
+  --body-font-size: 20px;
+  --body-letter-spacing: 0px;
+  --body-line-height: normal;
+  --body-font-style: normal;
+}
