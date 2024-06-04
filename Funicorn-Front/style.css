@@ -1,0 +1,242 @@
+.login-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login-page .overlap-wrapper {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1024px;
+}
+
+.login-page .overlap {
+  position: relative;
+  width: 456px;
+  height: 719px;
+  top: 119px;
+  left: 492px;
+  background-color: var(--bg-color);
+}
+
+.login-page .text-wrapper {
+  position: absolute;
+  width: 251px;
+  top: 29px;
+  left: 102px;
+  font-family: "Itim", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-page .username-block {
+  position: absolute;
+  width: 414px;
+  height: 97px;
+  top: 132px;
+  left: 24px;
+}
+
+.login-page .overlap-group {
+  position: absolute;
+  width: 414px;
+  height: 46px;
+  top: 54px;
+  left: -3px;
+  background-color: #d9d9d9;
+  border: 3px solid;
+  border-color: #000000;
+}
+
+.login-page .div {
+  position: absolute;
+  width: 72px;
+  top: 1px;
+  left: 9px;
+  font-family: var(--sub-heading-font-family);
+  font-weight: var(--sub-heading-font-weight);
+  color: #8a8383;
+  font-size: var(--sub-heading-font-size);
+  letter-spacing: var(--sub-heading-letter-spacing);
+  line-height: var(--sub-heading-line-height);
+  font-style: var(--sub-heading-font-style);
+}
+
+.login-page .overlap-group-2 {
+  position: absolute;
+  width: 165px;
+  height: 54px;
+  top: 0;
+  left: 8px;
+}
+
+.login-page .text-wrapper-2 {
+  position: absolute;
+  width: 165px;
+  top: 30px;
+  left: 0;
+  font-family: var(--body-font-family);
+  font-weight: var(--body-font-weight);
+  color: #ffffff;
+  font-size: var(--body-font-size);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  font-style: var(--body-font-style);
+}
+
+.login-page .text-wrapper-3 {
+  position: absolute;
+  width: 140px;
+  top: 0;
+  left: 1px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: var(--sub-heading-font-family);
+  font-weight: var(--sub-heading-font-weight);
+  color: #ffffff;
+  font-size: var(--sub-heading-font-size);
+  letter-spacing: var(--sub-heading-letter-spacing);
+  line-height: var(--sub-heading-line-height);
+  font-style: var(--sub-heading-font-style);
+}
+
+.login-page .password-block {
+  position: absolute;
+  width: 414px;
+  height: 131px;
+  top: 286px;
+  left: 24px;
+}
+
+.login-page .div-wrapper {
+  position: absolute;
+  width: 414px;
+  height: 46px;
+  top: 88px;
+  left: -3px;
+  background-color: #d9d9d9;
+  border: 3px solid;
+  border-color: #000000;
+}
+
+.login-page .text-wrapper-4 {
+  position: absolute;
+  width: 121px;
+  top: 1px;
+  left: 9px;
+  font-family: var(--sub-heading-font-family);
+  font-weight: var(--sub-heading-font-weight);
+  color: #8a8383;
+  font-size: var(--sub-heading-font-size);
+  letter-spacing: var(--sub-heading-letter-spacing);
+  line-height: var(--sub-heading-line-height);
+  font-style: var(--sub-heading-font-style);
+}
+
+.login-page .p {
+  position: absolute;
+  width: 398px;
+  top: 38px;
+  left: 9px;
+  font-family: var(--body-font-family);
+  font-weight: var(--body-font-weight);
+  color: #ffffff;
+  font-size: var(--body-font-size);
+  text-align: justify;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  font-style: var(--body-font-style);
+}
+
+.login-page .text-wrapper-5 {
+  position: absolute;
+  width: 132px;
+  top: 0;
+  left: 9px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: var(--sub-heading-font-family);
+  font-weight: var(--sub-heading-font-weight);
+  color: #ffffff;
+  font-size: var(--sub-heading-font-size);
+  letter-spacing: var(--sub-heading-letter-spacing);
+  line-height: var(--sub-heading-line-height);
+  font-style: var(--sub-heading-font-style);
+}
+
+.login-page .text-wrapper-6 {
+  position: absolute;
+  width: 456px;
+  top: 565px;
+  left: 0;
+  font-family: var(--sub-heading-font-family);
+  font-weight: var(--sub-heading-font-weight);
+  color: #ffffff;
+  font-size: var(--sub-heading-font-size);
+  text-align: justify;
+  letter-spacing: var(--sub-heading-letter-spacing);
+  line-height: var(--sub-heading-line-height);
+  font-style: var(--sub-heading-font-style);
+}
+
+.login-page .google-option {
+  position: absolute;
+  width: 402px;
+  height: 72px;
+  top: 622px;
+  left: 28px;
+  background-color: var(--primary-1);
+}
+
+.login-page .google-image {
+  position: absolute;
+  width: 59px;
+  height: 59px;
+  top: 6px;
+  left: 327px;
+  background-color: #000000;
+}
+
+.login-page .text-wrapper-7 {
+  position: absolute;
+  top: 15px;
+  left: 26px;
+  font-family: var(--sub-heading-font-family);
+  font-weight: var(--sub-heading-font-weight);
+  color: #000000;
+  font-size: var(--sub-heading-font-size);
+  letter-spacing: var(--sub-heading-letter-spacing);
+  line-height: var(--sub-heading-line-height);
+  white-space: nowrap;
+  font-style: var(--sub-heading-font-style);
+}
+
+.login-page .get-started-button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 217px;
+  height: 80px;
+  top: 457px;
+  left: 120px;
+  background-color: var(--primary-1);
+  border-radius: 20px;
+}
+
+.login-page .text-wrapper-8 {
+  position: absolute;
+  top: 20px;
+  left: 28px;
+  font-family: var(--sub-heading-font-family);
+  font-weight: var(--sub-heading-font-weight);
+  color: #000000;
+  font-size: var(--sub-heading-font-size);
+  text-align: justify;
+  letter-spacing: var(--sub-heading-letter-spacing);
+  line-height: var(--sub-heading-line-height);
+  white-space: nowrap;
+  font-style: var(--sub-heading-font-style);
+}
